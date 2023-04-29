@@ -1,0 +1,10 @@
+pandas # https://pypi.org/project/pandas/
+numpy # https://pypi.org/project/numpy/
+matplotlib # https://pypi.org/project/matplotlib/
+imageio # https://pypi.org/project/imageio/
+pydicom # https://pydicom.github.io/pydicom/stable/getting_started.html
+opencv-python # https://pypi.org/project/opencv-python/
+Pillow # https://pypi.org/project/Pillow/
+seaborn # https://pypi.org/project/seaborn/
+scikit-learn # https://pypi.org/project/scikit-learn/
+scikit-image # https://pypi.org/project/scikit-image/
