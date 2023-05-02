@@ -8,3 +8,5 @@ Pillow # https://pypi.org/project/Pillow/
 seaborn # https://pypi.org/project/seaborn/
 scikit-learn # https://pypi.org/project/scikit-learn/
 scikit-image # https://pypi.org/project/scikit-image/
+python-gdcm
+yellowbrick
