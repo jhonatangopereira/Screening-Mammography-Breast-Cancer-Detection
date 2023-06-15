@@ -10,3 +10,4 @@ scikit-learn # https://pypi.org/project/scikit-learn/
 scikit-image # https://pypi.org/project/scikit-image/
 python-gdcm
 yellowbrick
+pretty-confusion-matrix
