@@ -9,6 +9,7 @@ Find breast cancers in screening mammograms
 ## Authors
 
 - [@jhonatangopereira](https://github.com/jhonatangopereira)
+- [@lilianhteixeira](https://github.com/lilianhteixeira)
 - [@TheGabrielSN](https://github.com/TheGabrielSN)
 
 ## Badges
