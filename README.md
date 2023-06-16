@@ -1,3 +1,16 @@
-source venv/bin/activate
+# Screening Mammography Breast Cancer Detection
 
-pip install -r requirements.txt
+Find breast cancers in screening mammograms
+
+## Dataset
+
+- [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/)
+
+## Authors
+
+- [@jhonatangopereira](https://github.com/jhonatangopereira)
+- [@TheGabrielSN](https://github.com/TheGabrielSN)
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]()
